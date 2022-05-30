@@ -23,15 +23,10 @@ $(document).ready(function() {
 
   var typed = new Typed('.typing', {
     strings: [
-      "simple",
-      "powerful",
-      "easy to use",
-      "cute",
-      "your Waifu",
-      "made with love",
-      "Hot",
-      "well developed",
-      "nice",
+      "A multi purpose bot",
+      "uwu",
+      "made with love by Pain™ <$",
+      "Ice Bear",
     ],
     typeSpeed: 120,
     backSpeed: 80,
